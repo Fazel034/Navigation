@@ -42,7 +42,7 @@ fun HomeScreen(navController: NavHostController)
             }
         })
         {
-            Text(text = "submit", color = Color.Yellow)
+            Text(text = "submit", color = Color.Blue)
         }
     }
 }
